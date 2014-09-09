@@ -4,7 +4,7 @@ body {
 	font-family: Inconsolata, 'Courier New';
 	margin: 20px;
 }
-h1 {
+h1, h2, h3, h4{
 	text-align: center;
 	text-transform: uppercase;
 }
@@ -19,4 +19,7 @@ h1 {
 
 img {
 	margin-bottom: 50px;
+}
+.caption {
+	margin-top: -40px;
 }
