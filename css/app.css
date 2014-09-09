@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Inconsolata, 'Courier New';
+	margin: 20px;
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+.container {
+	max-width: 600px;
+}
+@media (min-width: 767px) {
+	.row-off {
+		margin-top: 90px;
+	}
+}
+
+img {
+	margin-bottom: 50px;
+}
