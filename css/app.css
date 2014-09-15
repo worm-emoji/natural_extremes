@@ -12,13 +12,13 @@ h1, h2, h3, h4{
 	max-width: 600px;
 }
 @media (min-width: 767px) {
-	.row-off {
+	.other {
 		margin-top: 90px;
 	}
 }
 
 img {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 .caption {
 	margin-top: -40px;
